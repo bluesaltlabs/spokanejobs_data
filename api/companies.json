@@ -612,6 +612,18 @@
     "updated_at": "2025-06-13 13:50:00+00"
   },
   {
+    "id": 53,
+    "name": "GoToTags",
+    "slug": "gototags",
+    "description": "",
+    "website": "https://gototags.com/",
+    "job_board_url": "https://gototags.com/careers",
+    "logo_url": "https://content.gototags.com/wp-content/uploads/sites/12/2024/01/gototags_logo.svg",
+    "industry": "",
+    "created_at": "2025-06-24 21:34:30+00",
+    "updated_at": "2025-06-24 21:34:30+00"
+  },
+  {
     "id": 55,
     "name": "WinCo",
     "slug": "winco",
